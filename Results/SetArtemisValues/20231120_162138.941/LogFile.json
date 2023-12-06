@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-20 16:21:38.954 -0500"
+			},
+		{
+				"message": "(Duration:\"2.335\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-20 16:21:38 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-20 16:21:41.300 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: -400,\"Query error; Query error found.\" -- Execution Time 0:00:02 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-20 16:21:41.897 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-20 16:21:38.963 -0500"
+}

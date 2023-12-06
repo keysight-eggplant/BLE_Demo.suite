@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-15 17:35:26.834 -0500"
+			},
+		{
+				"message": "(Duration:\"20.906\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-15 17:35:26 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-15 17:35:47.750 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: -350,\"Queue overflow\" -- Execution Time 0:00:20 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-15 17:35:48.288 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-15 17:35:26.841 -0500"
+}

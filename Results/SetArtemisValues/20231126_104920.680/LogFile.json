@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-26 10:49:20.692 -0500"
+			},
+		{
+				"handlerName": "on_setartemisvalues",
+				"timestamp": "2023-11-26 10:49:26.981 -0500",
+				"message": "SCPI ERROR - 3?M  Öû§|ÔN æA ý~2!*4Ê|2&óN1õó ÿå4â£B6ÝhP e µ 0h\\n  [=\\t±îýÈ¦Ë'¬«  ûÎþ ¦9Æ} ¡",
+				"scriptName": "SetArtemisValues.script",
+				"handlerLine": 43,
+				"identifier": "Throw"
+			},
+		{
+				"message": "(Duration:\"6.35\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-11-26 10:49:20 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-26 10:49:27.052 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: 3?M  Öû§|ÔN æA ý~2!*4Ê|2&óN1õó ÿå4â£B6ÝhP e µ 0h\\n  [=\\t±îýÈ¦Ë'¬«  ûÎþ ¦9Æ} ¡ -- Execution Time 0:00:06 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-26 10:49:27.432 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-26 10:49:20.700 -0500"
+}

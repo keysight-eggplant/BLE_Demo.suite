@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		466,
+		576,
+		43,
+		15
+	],
+	"lastmodifieddate": 1701285769.944,
+	"createddate": 1701285769.944,
+	"name": "Deals",
+	"lastfounddate": 1701287113.842,
+	"ocrcapturestring": "Deals",
+	"lastfoundlocation": [
+		466,
+		554,
+		43,
+		15
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[24,10]",
+					"Tolerance": "_60",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Deals.png",
+				"connectionname": "Win 10 - Song",
+				"type": 1,
+				"connectionserverid": "192.168.230.128",
+				"capturerect": [
+					466,
+					576,
+					43,
+					15
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Deals"
+			}
+	]
+}

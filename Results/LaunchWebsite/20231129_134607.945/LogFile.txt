@@ -1,0 +1,5 @@
+﻿2023-11-29 13:46:07.953 -0500	START		Running LaunchWebsite.script
+2023-11-29 13:46:24.663 -0500	doubleclick	EdgeLogo	at (37, 133)	1	on_sandbox	Sandbox.script
+2023-11-29 13:46:38.267 -0500	click	EdgeRefresh	at (364, 50)	2	on_sandbox	Sandbox.script
+2023-11-29 13:46:45.710 -0500	EndTestCase		(Duration:"37.746", Errors:"1", Exceptions:"0", StartTime:"2023-11-29 13:46:07 -0500", Successes:"0", TestCase:"LaunchWebsite.script", Warnings:"0")
+2023-11-29 13:46:45.736 -0500	ABORTED		Execution Time 0:00:37 LaunchWebsite.script

@@ -1,0 +1,420 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 13:53:56.556 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:01.479 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:01.493 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:01.749 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 419)",
+				"image": "HAACP_RangeIndicator_red",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:01.770 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:01.886 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (951, 352)",
+				"image": "HAACP_BatteryIcon_red",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:01.911 -0500",
+				"message": "The battery validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:06.702 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:06.709 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:08.143 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "Unable to Find Image HAACP_RangeIndicator_green",
+				"image": "HAACP_RangeIndicator_green",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:08.150 -0500",
+				"message": "The range validation has NOT passed for thermometer temperature 5",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 17,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:08.329 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (951, 352)",
+				"image": "HAACP_BatteryIcon_red",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:08.347 -0500",
+				"message": "The battery validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:13.294 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:13.306 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:13.487 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 423)",
+				"image": "HAACP_RangeIndicator_green",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:13.508 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:14.673 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "Unable to Find Image HAACP_BatteryIcon_1bar",
+				"image": "HAACP_BatteryIcon_1bar",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:14.681 -0500",
+				"message": "The battery validation has NOT passed for the value: 25 %.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 23,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:19.422 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:19.433 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:19.535 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 423)",
+				"image": "HAACP_RangeIndicator_green",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:19.543 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:19.666 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (951, 352)",
+				"image": "HAACP_BatteryIcon_2bars",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:19.672 -0500",
+				"message": "The battery validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:28.602 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:28.611 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:29.974 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "Unable to Find Image HAACP_RangeIndicator_green",
+				"image": "HAACP_RangeIndicator_green",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:29.980 -0500",
+				"message": "The range validation has NOT passed for thermometer temperature 100",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 17,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:30.099 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (951, 352)",
+				"image": "HAACP_BatteryIcon_2bars",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:30.105 -0500",
+				"message": "The battery validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:39.147 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:39.155 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:39.420 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 419)",
+				"image": "HAACP_RangeIndicator_red",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:39.434 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:39.552 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (951, 352)",
+				"image": "HAACP_BatteryIcon_3bars",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:39.557 -0500",
+				"message": "The battery validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:46.436 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:46.444 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:46.653 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 423)",
+				"image": "HAACP_RangeIndicator_green",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:46.666 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:46.781 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (951, 352)",
+				"image": "HAACP_BatteryIcon_3bars",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:46.791 -0500",
+				"message": "The battery validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:51.580 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:51.586 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:51.702 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 419)",
+				"image": "HAACP_RangeIndicator_red",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:51.711 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:51.839 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (951, 352)",
+				"image": "HAACP_BatteryIcon_full",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-28 13:54:51.851 -0500",
+				"message": "The battery validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 21,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"88.25\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-28 13:53:56 -0500\", Successes:\"21\", TestCase:\"SetArtemisValues.script\", Warnings:\"3\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 13:55:24.816 -0500"
+			},
+		{
+				"message": "Execution Time 0:01:28 SetArtemisValues.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-28 13:55:24.844 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-28 13:53:56.564 -0500"
+}

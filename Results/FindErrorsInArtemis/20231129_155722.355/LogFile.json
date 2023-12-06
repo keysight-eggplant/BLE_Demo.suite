@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running FindErrorsInArtemis.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 15:57:22.397 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-29 15:57:30.420 -0500",
+				"message": "Remote Connection Unavailable",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"8.425\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-11-29 15:57:22 -0500\", Successes:\"0\", TestCase:\"FindErrorsInArtemis.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 15:57:30.859 -0500"
+			},
+		{
+				"message": "No Remote Connection: readtext Error - Remote Connection Unavailable -- Execution Time 0:00:08 FindErrorsInArtemis.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-29 15:57:31.176 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 15:57:22.425 -0500"
+}

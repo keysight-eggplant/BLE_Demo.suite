@@ -1,0 +1,30 @@
+﻿2023-11-15 18:02:52.952 -0500	START		Running SetArtemisValues.script
+2023-11-15 18:03:01.623 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:01.741 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:01.752 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:18.243 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:18.361 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:18.390 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:28.216 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:28.323 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:28.335 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:40.619 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:40.750 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:40.763 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:53.647 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:53.768 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:03:53.780 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:05.326 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:05.475 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:05.504 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:25.317 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:25.473 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:25.485 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:41.600 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:41.699 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:41.714 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:55.663 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:55.790 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:04:55.806 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:05:16.194 -0500	EndTestCase		(Duration:"143.229", Errors:"1", Exceptions:"0", StartTime:"2023-11-15 18:02:52 -0500", Successes:"9", TestCase:"SetArtemisValues.script", Warnings:"0")
+2023-11-15 18:05:16.830 -0500	FAILURE	Screen_Error.png	SCPI ERROR: -350,"Queue overflow" -- Execution Time 0:02:23 SetArtemisValues.script

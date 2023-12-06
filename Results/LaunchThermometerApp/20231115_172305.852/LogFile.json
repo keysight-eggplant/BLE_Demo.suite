@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchThermometerApp.script",
+				"identifier": "START",
+				"timestamp": "2023-11-15 17:23:05.882 -0500"
+			},
+		{
+				"handlerName": "on_launchthermometerapp",
+				"timestamp": "2023-11-15 17:23:06.461 -0500",
+				"scriptName": "LaunchThermometerApp.script",
+				"message": "at (734, 914)",
+				"image": "HAACP_Icon",
+				"handlerLine": 1,
+				"identifier": "doubletap"
+			},
+		{
+				"handlerName": "on_launchthermometerapp",
+				"timestamp": "2023-11-15 17:23:11.438 -0500",
+				"scriptName": "LaunchThermometerApp.script",
+				"message": "found at (585, 210)",
+				"image": "(TEXT:\"Temperature Management\")",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_launchthermometerapp",
+				"timestamp": "2023-11-15 17:23:27.046 -0500",
+				"scriptName": "LaunchThermometerApp.script",
+				"message": "No Image Found On Screen: \"HAACP_AddButton\"",
+				"image": "HAACP_AddButton",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"21.664\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-11-15 17:23:05 -0500\", Successes:\"0\", TestCase:\"LaunchThermometerApp.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-15 17:23:27.568 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:21 LaunchThermometerApp.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-15 17:23:27.594 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-15 17:23:05.897 -0500"
+}

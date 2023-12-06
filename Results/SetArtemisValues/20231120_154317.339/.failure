@@ -1,0 +1,1 @@
+2023-11-20 15:43:17.339 -0500,Failure,0:00:04,1,0,0,20231120_154317.339/LogFile.txt,"","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:UNIT <unit> failed. Failed to set battery percentage""",0

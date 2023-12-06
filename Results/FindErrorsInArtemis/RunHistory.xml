@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="FindErrorsInArtemis">
+ <run>
+  <RunDate>2023-11-28 14:12:45.495 -0500</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13117.190000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2369</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1084</Successes>
+  <LogFile>20231128_141245.495/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-29 15:50:37.519 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.368000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231129_155037.519/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>VISA Error -- Failed to open connection to device &quot;USB0::0x2A8D::0x6A01::MY61440146::0::INSTR&quot; (VI_ERROR_NCIC: Not the controller-in-charge)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-29 15:57:22.355 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.485000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231129_155722.355/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- readtext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

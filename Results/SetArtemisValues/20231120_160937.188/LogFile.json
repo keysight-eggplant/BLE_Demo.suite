@@ -1,0 +1,69 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-20 16:09:37.202 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:09:41.751 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:09:41.757 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 87.4 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:09:46.086 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:09:46.096 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 96.9 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:09:50.566 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:09:50.579 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 175 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"message": "(Duration:\"15.606\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-20 16:09:37 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"3\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-20 16:09:52.822 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: -100,\"Command error; CONF:RAD:BLE:TEMP:VAL <value> failed. Failed to set temperature value\" -- Execution Time 0:00:15 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-20 16:09:53.366 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-20 16:09:37.212 -0500"
+}

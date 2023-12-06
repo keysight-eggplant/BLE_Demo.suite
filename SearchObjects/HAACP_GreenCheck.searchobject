@@ -1,0 +1,58 @@
+{
+	"lastmodifieddate": 1700083092.714,
+	"lastfoundlocation": [
+		992,
+		505,
+		144,
+		143
+	],
+	"originalcapturelocation": [
+		941,
+		578,
+		183,
+		182
+	],
+	"createddate": 1700083092.714,
+	"lastfounddate": 1701290905.7379999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 54136,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[92,87]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"model": "iPhone",
+					"webdriver_port": "54137",
+					"remote_adb_port": "0",
+					"device_os": "android",
+					"manufacturer": "Apple",
+					"type": "kvsfa",
+					"architecture": "arm64e",
+					"vnc_port": "54136",
+					"sdk": "20H115",
+					"android_version": "16.7.2",
+					"CacheDir": "PublicStaging",
+					"serial": "00008110-000E1C821162401E",
+					"remote_ip_addr": "localhost"
+				},
+				"name": "HAACP_GreenCheck.png",
+				"connectionname": "iPhone",
+				"type": 1,
+				"capturerect": [
+					941,
+					578,
+					183,
+					182
+				],
+				"connectiontype": "Mobile Device",
+				"connectionserverid": "localhost"
+			}
+	],
+	"name": "HAACP_GreenCheck"
+}

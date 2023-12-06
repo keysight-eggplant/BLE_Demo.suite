@@ -1,0 +1,60 @@
+{
+	"originalcapturelocation": [
+		908,
+		325,
+		84,
+		45
+	],
+	"lastmodifieddate": 1701002602.632,
+	"createddate": 1701002602.632,
+	"name": "HAACP_BatteryIcon_3bars",
+	"lastfounddate": 1701296646.8559999,
+	"ocrcapturestring": "□n",
+	"lastfoundlocation": [
+		908,
+		325,
+		84,
+		45
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 59513,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[43,27]",
+					"Tolerance": "_1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"sutinfo": {
+					"model": "iPhone",
+					"webdriver_port": "59514",
+					"remote_adb_port": "0",
+					"device_os": "android",
+					"manufacturer": "Apple",
+					"type": "kvsfa",
+					"architecture": "arm64e",
+					"vnc_port": "59513",
+					"sdk": "20H115",
+					"android_version": "16.7.2",
+					"CacheDir": "PublicStaging",
+					"remote_ip_addr": "localhost",
+					"serial": "00008110-000E1C821162401E"
+				},
+				"name": "HAACP_BatteryIcon_3bars.png",
+				"connectionname": "iPhone",
+				"type": 1,
+				"connectionserverid": "localhost",
+				"capturerect": [
+					908,
+					325,
+					84,
+					45
+				],
+				"connectiontype": "Mobile Device",
+				"capturedocrtext": "□n"
+			}
+	]
+}

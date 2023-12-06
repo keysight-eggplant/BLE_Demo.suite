@@ -1,0 +1,90 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 14:44:53.294 -0500"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:44:53.908 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (37, 133)",
+				"image": "EdgeLogo",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:44:56.034 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (364, 50)",
+				"image": "EdgeRefresh",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:44:58.394 -0500",
+				"message": "target.com[return]",
+				"scriptName": "Sandbox.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:45:01.437 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "found at (278, 158)",
+				"image": "TargetLogo",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:45:04.137 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "found at (373, 159)",
+				"image": "(TEXT:\"categories\")",
+				"handlerLine": 8,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:45:04.513 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (983, 160)",
+				"image": "SearchIcon",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:45:06.990 -0500",
+				"message": "coffee machine[return]",
+				"scriptName": "Sandbox.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:45:14.026 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (490, 564)",
+				"image": "Deals",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"20.846\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-29 14:44:53 -0500\", Successes:\"1\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 14:45:14.149 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:20 LaunchWebsite.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-29 14:45:14.336 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 14:44:53.301 -0500"
+}

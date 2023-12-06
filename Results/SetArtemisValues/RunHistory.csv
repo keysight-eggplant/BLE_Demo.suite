@@ -1,0 +1,104 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-11-13 12:51:58.643 -0500,"Success",0:00:01,0,0,0,"20231113_125158.643/LogFile.txt","","",1
+2023-11-13 12:52:54.270 -0500,"Success",0:00:01,0,0,0,"20231113_125254.270/LogFile.txt","","",1
+2023-11-13 12:53:28.694 -0500,"Success",0:00:00,0,0,0,"20231113_125328.694/LogFile.txt","","",1
+2023-11-13 12:56:23.001 -0500,"Success",0:00:02,0,0,0,"20231113_125623.001/LogFile.txt","","",1
+2023-11-13 12:58:50.876 -0500,"Failure",0:00:00,1,0,0,"20231113_125850.876/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""VISADevice(""USB0:..."" TO ""CONFigure:RADio:B..."")",0
+2023-11-13 12:59:31.221 -0500,"Failure",0:00:00,1,0,0,"20231113_125931.221/LogFile.txt","","SenseTalk Compiler Exception -- in verifyartemis:\nSyntax Error at line 9: can't understand [end of line] at character 45",0
+2023-11-13 13:03:43.062 -0500,"Failure",0:00:00,1,0,0,"20231113_130343.062/LogFile.txt","","SenseTalk Compiler Exception -- in verifyartemis:\nSyntax Error at line 13: can't understand [end of line] at character 45",0
+2023-11-13 13:04:05.336 -0500,"Success",0:00:04,0,0,0,"20231113_130405.336/LogFile.txt","","",1
+2023-11-13 13:04:26.598 -0500,"Success",0:00:04,0,0,0,"20231113_130426.598/LogFile.txt","","",1
+2023-11-13 13:08:51.679 -0500,"Success",0:00:13,0,0,0,"20231113_130851.679/LogFile.txt","","",1
+2023-11-13 13:09:34.681 -0500,"Success",0:00:19,0,0,0,"20231113_130934.681/LogFile.txt","","",1
+2023-11-13 13:17:00.659 -0500,"Aborted",0:00:13,1,0,0,"20231113_131700.659/LogFile.txt","","",0
+2023-11-13 13:17:41.602 -0500,"Success",0:00:15,0,0,0,"20231113_131741.602/LogFile.txt","","",1
+2023-11-13 13:18:03.896 -0500,"Failure",0:00:14,1,0,0,"20231113_131803.896/LogFile.txt","","ûNõóÿõ4æ£B4ÙhPe¥0x",0
+2023-11-13 13:18:49.267 -0500,"Success",0:00:10,0,0,0,"20231113_131849.267/LogFile.txt","","",1
+2023-11-13 13:26:37.988 -0500,"Success",0:00:16,0,0,0,"20231113_132637.988/LogFile.txt","","",1
+2023-11-13 13:27:56.251 -0500,"Success",0:00:11,0,0,0,"20231113_132756.251/LogFile.txt","","",1
+2023-11-13 13:32:40.914 -0500,"Success",0:00:11,0,0,0,"20231113_133240.914/LogFile.txt","","",1
+2023-11-15 16:28:45.219 -0500,"Failure",0:00:10,1,0,0,"20231115_162845.219/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",0
+2023-11-15 16:34:09.851 -0500,"Success",0:00:15,0,0,0,"20231115_163409.851/LogFile.txt","","",1
+2023-11-15 16:37:35.952 -0500,"Failure",0:00:28,1,3,0,"20231115_163735.952/LogFile.txt","","ûNõóÿõ4æ£B4ÙhPe¥0x",0
+2023-11-15 16:38:49.099 -0500,"Failure",0:00:22,1,2,0,"20231115_163849.099/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",2
+2023-11-15 16:40:38.549 -0500,"Failure",0:00:32,1,2,0,"20231115_164038.549/LogFile.txt","","ûNõóÿõ4æ£B4ÙhPe¥0x",0
+2023-11-15 16:41:58.092 -0500,"Aborted",0:00:56,1,0,0,"20231115_164158.092/LogFile.txt","","",0
+2023-11-15 17:29:46.539 -0500,"Failure",0:00:18,1,0,0,"20231115_172946.539/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",3
+2023-11-15 17:30:36.576 -0500,"Failure",0:00:32,1,0,0,"20231115_173036.576/LogFile.txt","","ûNõóÿõ4æ£B4ÙhPe¥0x",0
+2023-11-15 17:35:26.813 -0500,"Failure",0:00:20,1,0,0,"20231115_173526.813/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",0
+2023-11-15 17:36:10.828 -0500,"Failure",0:00:02,1,0,0,"20231115_173610.828/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",0
+2023-11-15 17:40:03.637 -0500,"Failure",0:00:02,1,0,0,"20231115_174003.637/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",0
+2023-11-15 17:42:50.066 -0500,"Failure",0:00:04,1,0,0,"20231115_174250.066/LogFile.txt","","SCPI ERROR -- -400,""Query error; Query error found.""",0
+2023-11-15 17:43:18.816 -0500,"Failure",0:00:02,1,0,0,"20231115_174318.816/LogFile.txt","","SCPI ERROR -- -113,""Undefined header; CONFIGURE:RADIO:BLE:TEMPERATURE:*OPC?""",0
+2023-11-15 17:44:19.573 -0500,"Failure",0:00:02,1,0,0,"20231115_174419.573/LogFile.txt","","SCPI ERROR -- -400,""Query error; Query error found.""",0
+2023-11-15 17:48:00.877 -0500,"Aborted",0:00:50,1,0,0,"20231115_174800.877/LogFile.txt","","",0
+2023-11-15 17:49:40.604 -0500,"Failure",0:02:00,1,0,0,"20231115_174940.604/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",0
+2023-11-15 17:54:15.863 -0500,"Failure",0:01:39,1,0,0,"20231115_175415.863/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",0
+2023-11-15 17:56:54.087 -0500,"Failure",0:01:47,1,0,0,"20231115_175654.087/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",0
+2023-11-15 18:02:52.914 -0500,"Failure",0:02:23,1,0,0,"20231115_180252.914/LogFile.txt","","SCPI ERROR -- -350,""Queue overflow""",9
+2023-11-15 18:12:45.427 -0500,"Failure",0:00:02,1,0,0,"20231115_181245.427/LogFile.txt","","SCPI ERROR -- -400,""Query error; Query error found.""",0
+2023-11-15 18:13:02.971 -0500,"Failure",0:00:02,1,0,0,"20231115_181302.971/LogFile.txt","","SCPI ERROR -- -400,""Query error; Query error found.""",0
+2023-11-15 18:13:20.016 -0500,"Failure",0:00:02,1,0,0,"20231115_181320.016/LogFile.txt","","SCPI ERROR -- -400,""Query error; Query error found.""",0
+2023-11-15 18:15:17.046 -0500,"Success",0:02:35,0,0,0,"20231115_181517.046/LogFile.txt","","",10
+2023-11-15 18:19:22.639 -0500,"Success",0:00:58,0,0,0,"20231115_181922.639/LogFile.txt","","",10
+2023-11-20 15:42:52.641 -0500,"Failure",0:00:04,1,0,0,"20231120_154252.641/LogFile.txt","","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:VAL <value> failed. Failed to set temperature value""",0
+2023-11-20 15:43:17.339 -0500,"Failure",0:00:04,1,0,0,"20231120_154317.339/LogFile.txt","","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:UNIT <unit> failed. Failed to set battery percentage""",0
+2023-11-20 15:56:11.434 -0500,"Aborted",0:02:03,1,0,0,"20231120_155611.434/LogFile.txt","","",0
+2023-11-20 15:59:22.026 -0500,"Failure",0:00:02,1,0,0,"20231120_155922.026/LogFile.txt","","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:VAL <value> failed. Failed to set temperature value""",0
+2023-11-20 16:01:57.445 -0500,"Failure",0:00:32,1,0,0,"20231120_160157.445/LogFile.txt","","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:UNIT <unit> failed. Failed to set battery percentage""",0
+2023-11-20 16:06:12.738 -0500,"Failure",0:00:24,1,0,0,"20231120_160612.738/LogFile.txt","","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:VAL <value> failed. Failed to set temperature value""",0
+2023-11-20 16:08:02.628 -0500,"Success",0:01:01,0,0,0,"20231120_160802.628/LogFile.txt","","",10
+2023-11-20 16:09:37.188 -0500,"Failure",0:00:15,1,3,0,"20231120_160937.188/LogFile.txt","","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:VAL <value> failed. Failed to set temperature value""",0
+2023-11-20 16:10:09.418 -0500,"Failure",0:00:04,1,0,0,"20231120_161009.418/LogFile.txt","","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:UNIT <unit> failed. Failed to set battery percentage""",0
+2023-11-20 16:10:25.267 -0500,"Success",0:00:43,0,9,0,"20231120_161025.267/LogFile.txt","","",1
+2023-11-20 16:16:31.690 -0500,"Failure",0:00:02,1,0,0,"20231120_161631.690/LogFile.txt","","VISA Error -- VI_ERROR_TMO: A timeout occurred",0
+2023-11-20 16:16:45.745 -0500,"Aborted",0:00:51,1,0,0,"20231120_161645.745/LogFile.txt","","",0
+2023-11-20 16:21:38.941 -0500,"Failure",0:00:02,1,0,0,"20231120_162138.941/LogFile.txt","","SCPI ERROR -- -400,""Query error; Query error found.""",0
+2023-11-20 16:22:14.292 -0500,"Aborted",0:00:15,1,2,0,"20231120_162214.292/LogFile.txt","","",0
+2023-11-20 16:24:17.145 -0500,"Aborted",0:00:17,1,3,0,"20231120_162417.145/LogFile.txt","","",0
+2023-11-20 16:24:57.941 -0500,"Success",0:00:43,0,0,0,"20231120_162457.941/LogFile.txt","","",10
+2023-11-20 16:26:37.593 -0500,"Aborted",0:00:31,1,0,0,"20231120_162637.593/LogFile.txt","","",0
+2023-11-20 16:30:01.828 -0500,"Aborted",0:00:57,1,2,0,"20231120_163001.828/LogFile.txt","","",0
+2023-11-20 16:31:46.637 -0500,"Success",0:00:52,0,0,0,"20231120_163146.637/LogFile.txt","","",10
+2023-11-26 07:53:13.218 -0500,"Success",0:01:23,0,1,0,"20231126_075313.218/LogFile.txt","","",9
+2023-11-26 10:23:00.925 -0500,"Failure",0:00:08,1,0,0,"20231126_102300.925/LogFile.txt","","VISA Error -- Failed to open connection to device ""USB0::0x2A8D::0x6A01::MY61440146::0::INSTR"" (VI_ERROR_NCIC: Not the controller-in-charge)",0
+2023-11-26 10:24:56.354 -0500,"Aborted",0:00:28,1,2,0,"20231126_102456.354/LogFile.txt","","",0
+2023-11-26 10:25:50.278 -0500,"Failure",0:00:05,1,0,0,"20231126_102550.278/LogFile.txt","","VISA Error -- VI_ERROR_IO: I/O error",0
+2023-11-26 10:26:10.054 -0500,"Failure",0:00:11,1,0,0,"20231126_102610.054/LogFile.txt","","SCPI ERROR -- 3?MÖû§|ÔNæAý~2!*4Ê|2&óN1õóÿå4â£B6ÝhPeµ0h",0
+2023-11-26 10:27:08.321 -0500,"Failure",0:00:46,1,0,0,"20231126_102708.321/LogFile.txt","","VISA Error -- VI_ERROR_IO: I/O error",7
+2023-11-26 10:28:36.217 -0500,"Failure",0:00:08,1,0,0,"20231126_102836.217/LogFile.txt","","SCPI ERROR -- 3?MÖû§|ÔNæAý~2!*4Ê|2&óN1õóÿå4â£B6ÝhPeµ0h",0
+2023-11-26 10:30:16.197 -0500,"Aborted",0:00:21,1,3,0,"20231126_103016.197/LogFile.txt","","",1
+2023-11-26 10:31:19.733 -0500,"Failure",0:00:23,1,0,0,"20231126_103119.733/LogFile.txt","","VISA Error -- VI_ERROR_IO: I/O error",2
+2023-11-26 10:32:15.922 -0500,"Failure",0:00:08,1,0,0,"20231126_103215.922/LogFile.txt","","SCPI ERROR -- 3?MÖû§|ÔNæAý~2!*4Ê|2&óN1õóÿå4â£B6ÝhPeµ0h",0
+2023-11-26 10:33:08.670 -0500,"Aborted",0:00:13,1,3,0,"20231126_103308.670/LogFile.txt","","",1
+2023-11-26 10:34:17.055 -0500,"Failure",0:00:02,1,0,0,"20231126_103417.055/LogFile.txt","","VISA Error -- VI_ERROR_TMO: A timeout occurred",0
+2023-11-26 10:35:16.622 -0500,"Failure",0:00:31,1,0,0,"20231126_103516.622/LogFile.txt","","VISA Error -- VI_ERROR_IO: I/O error",9
+2023-11-26 10:37:12.316 -0500,"Failure",0:00:12,1,0,1,"20231126_103712.316/LogFile.txt","","SCPI ERROR -- 3?MÖû§|ÔNæAý~2!*4Ê|2&óN1õóÿå4â£B6ÝhPeµ0h",0
+2023-11-26 10:48:45.332 -0500,"Failure",0:00:05,1,0,1,"20231126_104845.332/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: myValidationImage",1
+2023-11-26 10:49:20.680 -0500,"Failure",0:00:06,1,0,1,"20231126_104920.680/LogFile.txt","","SCPI ERROR -- 3?MÖû§|ÔNæAý~2!*4Ê|2&óN1õóÿå4â£B6ÝhPeµ0h",0
+2023-11-26 10:49:33.904 -0500,"Success",0:00:47,0,2,0,"20231126_104933.904/LogFile.txt","","",18
+2023-11-26 11:04:12.856 -0500,"Success",0:00:47,0,2,0,"20231126_110412.856/LogFile.txt","","",18
+2023-11-26 11:51:42.683 -0500,"Failure",0:00:05,1,3,1,"20231126_115142.683/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: (empty)",0
+2023-11-26 11:52:33.877 -0500,"Aborted",0:00:33,1,1,0,"20231126_115233.877/LogFile.txt","","",2
+2023-11-26 11:53:34.936 -0500,"Aborted",0:00:19,1,0,0,"20231126_115334.936/LogFile.txt","","",2
+2023-11-26 11:54:22.074 -0500,"Failure",0:00:52,1,2,1,"20231126_115422.074/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: HAACP_BatteryIcon_2bar",9
+2023-11-26 11:56:04.340 -0500,"Success",0:00:51,0,4,0,"20231126_115604.340/LogFile.txt","","",27
+2023-11-26 12:05:16.325 -0500,"Success",0:00:59,0,4,0,"20231126_120516.325/LogFile.txt","","",27
+2023-11-26 12:09:32.976 -0500,"Success",0:01:04,0,4,0,"20231126_120932.976/LogFile.txt","","",27
+2023-11-26 13:41:14.293 -0500,"Success",0:00:51,0,4,0,"20231126_134114.293/LogFile.txt","","",27
+2023-11-26 14:11:38.844 -0500,"Aborted",0:00:15,1,5,0,"20231126_141138.844/LogFile.txt","","",1
+2023-11-26 14:12:20.350 -0500,"Success",0:00:51,0,4,0,"20231126_141220.350/LogFile.txt","","",27
+2023-11-26 14:26:04.788 -0500,"Success",0:00:51,0,4,0,"20231126_142604.788/LogFile.txt","","",27
+2023-11-26 14:35:35.555 -0500,"Success",0:00:51,0,4,0,"20231126_143535.555/LogFile.txt","","",27
+2023-11-26 17:56:19.805 -0500,"Aborted",0:00:08,1,2,0,"20231126_175619.805/LogFile.txt","","",1
+2023-11-26 17:56:47.957 -0500,"Success",0:00:49,0,4,0,"20231126_175647.957/LogFile.txt","","",27
+2023-11-28 13:51:59.500 -0500,"Failure",0:00:46,1,3,1,"20231128_135159.500/LogFile.txt","","Öû·|ÔNæEý^2%*4Ë}2&ûN1õóÿõ4æ«B6ÝhP%±0x",0
+2023-11-28 13:53:56.528 -0500,"Aborted",0:01:28,1,3,0,"20231128_135356.528/LogFile.txt","","",21
+2023-11-28 13:55:40.398 -0500,"Success",0:08:48,0,9,0,"20231128_135540.398/LogFile.txt","","",22
+2023-11-28 14:04:37.014 -0500,"Success",0:01:39,0,4,0,"20231128_140437.014/LogFile.txt","","",27
+2023-11-28 14:06:22.928 -0500,"Success",0:01:23,0,4,0,"20231128_140622.928/LogFile.txt","","",27
+2023-11-28 14:08:36.981 -0500,"Success",0:01:00,0,4,0,"20231128_140836.981/LogFile.txt","","",27
+2023-11-29 10:42:30.126 -0500,"Failure",0:00:00,1,0,0,"20231129_104230.126/LogFile.txt","","VISA Error -- Failed to open connection to device ""USB0::0x2A8D::0x6A01::MY61440146::0::INSTR"" (VI_ERROR_NCIC: Not the controller-in-charge)",0
+2023-11-29 10:42:46.526 -0500,"Failure",0:00:00,1,0,0,"20231129_104246.526/LogFile.txt","","VISA Error -- Failed to open connection to device ""USB0::0x2A8D::0x6A01::MY61440146::0::INSTR"" (VI_ERROR_NCIC: Not the controller-in-charge)",0
+2023-11-29 10:50:14.455 -0500,"Aborted",0:00:05,1,0,0,"20231129_105014.455/LogFile.txt","","",0
+2023-11-29 17:23:09.110 -0500,"Success",0:01:17,0,4,0,"20231129_172309.110/LogFile.txt","","",27

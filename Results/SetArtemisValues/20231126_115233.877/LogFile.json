@@ -1,0 +1,61 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-26 11:52:33.900 -0500"
+			},
+		{
+				"handlerName": "on_setartemisvalues",
+				"timestamp": "2023-11-26 11:52:34.045 -0500",
+				"message": "The battery percentage is out of range.",
+				"scriptName": "SetArtemisValues.script",
+				"handlerLine": 47,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 11:52:38.257 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 11:52:38.276 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 9,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 11:52:38.445 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 419)",
+				"image": "HAACP_RangeIndicator_red",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 11:52:38.453 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"33.438\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-26 11:52:33 -0500\", Successes:\"2\", TestCase:\"SetArtemisValues.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-26 11:53:07.352 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:33 SetArtemisValues.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-26 11:53:07.383 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-26 11:52:33.911 -0500"
+}

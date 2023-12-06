@@ -1,0 +1,3 @@
+﻿2023-11-20 16:10:09.433 -0500	START		Running SetArtemisValues.script
+2023-11-20 16:10:13.790 -0500	EndTestCase		(Duration:"4.349", Errors:"1", Exceptions:"0", StartTime:"2023-11-20 16:10:09 -0500", Successes:"0", TestCase:"SetArtemisValues.script", Warnings:"0")
+2023-11-20 16:10:14.287 -0500	FAILURE	Screen_Error.png	SCPI ERROR: -100,"Command error; CONF:RAD:BLE:TEMP:UNIT <unit> failed. Failed to set battery percentage" -- Execution Time 0:00:04 SetArtemisValues.script

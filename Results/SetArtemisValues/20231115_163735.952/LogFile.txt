@@ -1,0 +1,12 @@
+﻿2023-11-15 16:37:35.972 -0500	START		Running SetArtemisValues.script
+2023-11-15 16:37:44.451 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:37:44.538 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:37:44.545 -0500	LogWarning		The temperatures do not match.	8	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:37:56.125 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:37:56.224 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:37:56.242 -0500	LogWarning		The temperatures do not match.	8	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:38:00.547 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:38:00.639 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:38:00.652 -0500	LogWarning		The temperatures do not match.	8	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:38:04.824 -0500	EndTestCase		(Duration:"28.838", Errors:"1", Exceptions:"0", StartTime:"2023-11-15 16:37:35 -0500", Successes:"0", TestCase:"SetArtemisValues.script", Warnings:"3")
+2023-11-15 16:38:05.430 -0500	FAILURE	Screen_Error.png	SCPI ERROR: 3?  Öû§|ÔN1æE·ý^°1*4É|0"ûN õó ÿõ4æ£B4ÙhP e ¥ 0x\n  [=)±îýÈ®Ë'¨«  ûÎî¨®9Æ} ¡ î\n$ÁïíhK<Ç®òçj ÍÔªßJ \x7fª ñÿyç ¤ \nk"3*\n k ÌïÍÞÆèã ¾ \n¿í  q Óé Æ âeÓòõÁþÉ -- Execution Time 0:00:28 SetArtemisValues.script

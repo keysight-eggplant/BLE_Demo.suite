@@ -1,0 +1,64 @@
+﻿2023-11-26 13:41:14.327 -0500	START		Running SetArtemisValues.script
+2023-11-26 13:41:18.720 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:18.730 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:18.843 -0500	imagefound	HAACP_RangeIndicator_red	found at (583, 419)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:18.862 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:19.047 -0500	imagefound	HAACP_BatteryIcon_red	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:19.055 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:23.298 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:23.306 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:24.628 -0500	imagefound	HAACP_RangeIndicator_green	Unable to Find Image HAACP_RangeIndicator_green	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:24.635 -0500	LogWarning		The range validation has NOT passed for thermometer temperature 5	17	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:24.759 -0500	imagefound	HAACP_BatteryIcon_red	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:24.769 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:29.175 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:29.192 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:29.404 -0500	imagefound	HAACP_RangeIndicator_green	found at (583, 423)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:29.410 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:30.829 -0500	imagefound	HAACP_BatteryIcon_1bar	Unable to Find Image HAACP_BatteryIcon_1bar	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:30.835 -0500	LogWarning		The battery validation has NOT passed for the value: 25 %.	23	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:35.137 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:35.149 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:35.335 -0500	imagefound	HAACP_RangeIndicator_green	found at (583, 423)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:35.356 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:35.538 -0500	imagefound	HAACP_BatteryIcon_2bars	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:35.545 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:39.842 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:39.847 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:41.219 -0500	imagefound	HAACP_RangeIndicator_green	Unable to Find Image HAACP_RangeIndicator_green	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:41.238 -0500	LogWarning		The range validation has NOT passed for thermometer temperature 100	17	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:41.420 -0500	imagefound	HAACP_BatteryIcon_2bars	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:41.430 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:45.858 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:45.876 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:45.988 -0500	imagefound	HAACP_RangeIndicator_red	found at (583, 419)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:46.011 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:46.185 -0500	imagefound	HAACP_BatteryIcon_3bars	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:46.192 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:50.507 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:50.516 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:50.646 -0500	imagefound	HAACP_RangeIndicator_green	found at (583, 423)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:50.658 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:50.840 -0500	imagefound	HAACP_BatteryIcon_3bars	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:50.851 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:55.077 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:55.086 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:55.235 -0500	imagefound	HAACP_RangeIndicator_red	found at (583, 419)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:55.254 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:55.445 -0500	imagefound	HAACP_BatteryIcon_full	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:55.454 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:59.871 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:41:59.889 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:00.001 -0500	imagefound	HAACP_RangeIndicator_green	found at (583, 423)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:00.023 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:00.132 -0500	imagefound	HAACP_BatteryIcon_full	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:00.143 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:00.261 -0500	LogWarning		The battery percentage is out of range.	47	on_setartemisvalues	SetArtemisValues.script
+2023-11-26 13:42:04.529 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:04.541 -0500	LogSuccess		The temperatures match.	9	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:04.695 -0500	imagefound	HAACP_RangeIndicator_red	found at (583, 419)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:04.707 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:04.853 -0500	imagefound	HAACP_BatteryIcon_full	found at (951, 352)	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:04.874 -0500	LogSuccess		The battery validation has passed.	21	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 13:42:05.474 -0500	EndTestCase		(Duration:"51.129", Errors:"0", Exceptions:"0", StartTime:"2023-11-26 13:41:14 -0500", Successes:"27", TestCase:"SetArtemisValues.script", Warnings:"4")
+2023-11-26 13:42:05.578 -0500	SUCCESS		Execution Time 0:00:51 SetArtemisValues.script

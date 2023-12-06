@@ -1,0 +1,133 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-26 10:27:08.341 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:14.669 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:14.677 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:18.874 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:18.881 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:23.107 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:23.115 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:27.349 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:27.357 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:31.615 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:31.621 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:40.009 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:40.015 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:48.400 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:27:48.407 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"46.289\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-26 10:27:08 -0500\", Successes:\"7\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-26 10:27:54.637 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "VISA Error: VI_ERROR_IO: I/O error -- Execution Time 0:00:46 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-26 10:27:55.222 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-26 10:27:08.347 -0500"
+}

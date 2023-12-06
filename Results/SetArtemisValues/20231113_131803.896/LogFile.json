@@ -1,0 +1,27 @@
+{
+	"entries": [
+		{
+				"message": "Running VerifyArtemis.script",
+				"identifier": "START",
+				"timestamp": "2023-11-13 13:18:03.913 -0500"
+			},
+		{
+				"message": "(Duration:\"14.813\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-13 13:18:03 -0500\", Successes:\"0\", TestCase:\"VerifyArtemis.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-13 13:18:18.738 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: 3?  Öû§|ÔN1æE·ý^°1*4É|0\"ûN õó ÿõ4æ£B4ÙhP e ¥ 0x\\n  [=)±îýÈ®Ë'¨«  ûÎî¨®9Æ} ¡ î\\n$ÁïíhK<Ç®òçj ÍÔªßJ \\x7fª ñÿyç ¤ \\nk\"3*\\n k ÌïÍÞÆèã ¾ \\n¿í  q Óé Æ âeÓòõÁþÉ -- Execution Time 0:00:14 VerifyArtemis.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-13 13:18:19.424 -0500"
+			},
+		{
+				"image": "Screen_Error_Web.png",
+				"message": "SCPI ERROR: 3?  Öû§|ÔN1æE·ý^°1*4É|0\"ûN õó ÿõ4æ£B4ÙhP e ¥ 0x\\n  [=)±îýÈ®Ë'¨«  ûÎî¨®9Æ} ¡ î\\n$ÁïíhK<Ç®òçj ÍÔªßJ \\x7fª ñÿyç ¤ \\nk\"3*\\n k ÌïÍÞÆèã ¾ \\n¿í  q Óé Æ âeÓòõÁþÉ -- Execution Time 0:00:14 VerifyArtemis.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-13 13:18:28.648 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-13 13:18:03.923 -0500"
+}

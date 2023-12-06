@@ -1,0 +1,24 @@
+﻿global myTemperature
+global myValidationImage
+global myBatteryPercentageAsNumber
+global myBatteryValidationImage
+
+--WaitFor 5.0, "HAACP_BatteryIcon_hollow"
+Put ReadText((311,506,861,774)) into myReadTemperature
+If myTemperature = myReadTemperature then
+	LogSuccess "The temperatures match."
+Else
+	LogWarning "The temperatures do not match. The thermometer temperature is"&&myTemperature&&"but the application reads"&&myReadTemperature
+End If
+
+If ImageFound(imageName:myValidationImage, waitFor:1) then
+	LogSuccess "The range validation has passed."
+else
+	LogWarning "The range validation has NOT passed for thermometer temperature"&&myTemperature
+End If
+
+If ImageFound(imageName:myBatteryValidationImage, waitFor:1) then
+	LogSuccess "The battery validation has passed."
+else
+	LogWarning "The battery validation has NOT passed for the value:"&&myBatteryPercentageAsNumber&&"%."
+End If

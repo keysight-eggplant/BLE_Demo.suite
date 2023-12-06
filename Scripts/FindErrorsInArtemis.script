@@ -1,0 +1,5 @@
+﻿global myErrorCount
+
+repeat while myErrorCount < 5
+	SetArtemisValues
+end repeat

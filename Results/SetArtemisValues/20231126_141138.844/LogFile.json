@@ -1,0 +1,120 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-26 14:11:38.879 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:43.284 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:43.299 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 4.9 but the application reads 999.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 11,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:43.509 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (583, 419)",
+				"image": "HAACP_RangeIndicator_red",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:43.515 -0500",
+				"message": "The range validation has passed.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 15,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:44.989 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "Unable to Find Image HAACP_BatteryIcon_red",
+				"image": "HAACP_BatteryIcon_red",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:45.003 -0500",
+				"message": "The battery validation has NOT passed for the value: 0 %.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 23,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:49.241 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:49.247 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 5 but the application reads 999.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 11,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:50.604 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "Unable to Find Image HAACP_RangeIndicator_green",
+				"image": "HAACP_RangeIndicator_green",
+				"handlerLine": 14,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:50.621 -0500",
+				"message": "The range validation has NOT passed for thermometer temperature 5",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 17,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:51.925 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "Unable to Find Image HAACP_BatteryIcon_red",
+				"image": "HAACP_BatteryIcon_red",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 14:11:51.943 -0500",
+				"message": "The battery validation has NOT passed for the value: 10 %.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 23,
+				"identifier": "LogWarning"
+			},
+		{
+				"message": "(Duration:\"15.184\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-26 14:11:38 -0500\", Successes:\"1\", TestCase:\"SetArtemisValues.script\", Warnings:\"5\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-26 14:11:54.084 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:15 SetArtemisValues.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-26 14:11:54.097 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-26 14:11:38.893 -0500"
+}

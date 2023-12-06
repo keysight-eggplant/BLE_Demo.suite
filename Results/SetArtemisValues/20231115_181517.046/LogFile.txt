@@ -1,0 +1,33 @@
+﻿2023-11-15 18:15:17.063 -0500	START		Running SetArtemisValues.script
+2023-11-15 18:15:40.500 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:15:40.636 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:15:40.661 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:15:55.919 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:15:56.072 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:15:56.098 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:07.932 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:08.042 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:08.057 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:16.694 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:16.816 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:16.832 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:28.897 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:29.182 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:29.203 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:41.099 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:41.219 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:41.231 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:51.200 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:51.352 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:16:51.394 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:05.012 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:05.140 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:05.155 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:16.412 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:16.537 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:16.554 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:26.543 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:26.681 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:26.718 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 18:17:53.008 -0500	EndTestCase		(Duration:"155.921", Errors:"0", Exceptions:"0", StartTime:"2023-11-15 18:15:17 -0500", Successes:"10", TestCase:"SetArtemisValues.script", Warnings:"0")
+2023-11-15 18:17:53.173 -0500	SUCCESS		Execution Time 0:02:35 SetArtemisValues.script

@@ -1,0 +1,7 @@
+﻿2023-11-20 16:30:01.848 -0500	START		Running SetArtemisValues.script
+2023-11-20 16:30:11.043 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-20 16:30:11.050 -0500	LogWarning		The temperatures do not match. The thermometer temperature is 87.4 but the application reads 32.0	8	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-20 16:30:15.336 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-20 16:30:15.341 -0500	LogWarning		The temperatures do not match. The thermometer temperature is 96.9 but the application reads 32.0	8	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-20 16:30:59.325 -0500	EndTestCase		(Duration:"57.469", Errors:"1", Exceptions:"0", StartTime:"2023-11-20 16:30:01 -0500", Successes:"0", TestCase:"SetArtemisValues.script", Warnings:"2")
+2023-11-20 16:30:59.340 -0500	ABORTED		Execution Time 0:00:57 SetArtemisValues.script

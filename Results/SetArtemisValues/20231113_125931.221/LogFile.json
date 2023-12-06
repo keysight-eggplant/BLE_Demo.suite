@@ -1,0 +1,27 @@
+{
+	"entries": [
+		{
+				"message": "Running VerifyArtemis.script",
+				"identifier": "START",
+				"timestamp": "2023-11-13 12:59:31.232 -0500"
+			},
+		{
+				"message": "(Duration:\"0.003\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-13 12:59:31 -0500\", Successes:\"0\", TestCase:\"VerifyArtemis.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-13 12:59:31.250 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in verifyartemis:\\nSyntax Error at line 9: can't understand [end of line] at character 45 -- Execution Time 0:00:00 VerifyArtemis.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-13 12:59:32.069 -0500"
+			},
+		{
+				"image": "Screen_Error_Web.png",
+				"message": "SenseTalk Compiler Exception: in verifyartemis:\\nSyntax Error at line 9: can't understand [end of line] at character 45 -- Execution Time 0:00:00 VerifyArtemis.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-13 12:59:39.204 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-13 12:59:31.242 -0500"
+}

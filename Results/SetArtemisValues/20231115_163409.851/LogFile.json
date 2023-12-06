@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-15 16:34:09.865 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:34:24.681 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (952, 358)",
+				"image": "HAACP_BatteryIcon_hollow",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:34:24.815 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:34:24.825 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"15.019\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-15 16:34:09 -0500\", Successes:\"1\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-15 16:34:24.897 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:15 SetArtemisValues.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-15 16:34:25.071 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-15 16:34:09.874 -0500"
+}

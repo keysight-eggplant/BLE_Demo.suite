@@ -1,0 +1,13 @@
+﻿2023-11-26 10:42:52.402 -0500	START		Running SetArtemisValues.script
+2023-11-26 10:42:56.757 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:42:56.762 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:00.957 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:00.964 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:05.139 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:05.148 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:09.387 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:09.392 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:17.745 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:17.754 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:26.091 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:43:26.095 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script

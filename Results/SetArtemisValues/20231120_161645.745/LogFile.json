@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-20 16:16:45.757 -0500"
+			},
+		{
+				"message": "(Duration:\"51.165\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-20 16:16:45 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-20 16:17:36.936 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:51 SetArtemisValues.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-20 16:17:36.970 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-20 16:16:45.767 -0500"
+}

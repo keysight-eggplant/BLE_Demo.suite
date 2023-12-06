@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchThermometerApp.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 15:38:24.227 -0500"
+			},
+		{
+				"message": "(Duration:\"18.2\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-29 15:38:24 -0500\", Successes:\"0\", TestCase:\"LaunchThermometerApp.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 15:38:42.447 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:18 LaunchThermometerApp.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-29 15:38:42.483 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 15:38:24.244 -0500"
+}

@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running VerifyArtemis.script",
+				"identifier": "START",
+				"timestamp": "2023-11-13 13:18:49.283 -0500"
+			},
+		{
+				"message": "(Duration:\"10.721\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-13 13:18:49 -0500\", Successes:\"1\", TestCase:\"VerifyArtemis.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-13 13:19:00.017 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:10 VerifyArtemis.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-13 13:19:00.316 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-13 13:18:49.289 -0500"
+}

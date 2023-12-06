@@ -1,0 +1,8 @@
+﻿put ImageRectangle(text:"Name", waitFor:1) into myAnchorRectangle
+put myAnchorRectangle + (20, 19, 211,334) into mySearchArea
+put ReadText(mySearchArea) into myFolderValues
+If myFolderValues contains "H&P" then
+	LogSuccess "Found it"
+Else
+	LogError "Did not find it."
+End If

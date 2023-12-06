@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="VerifyArtemis_script" package="BLE_Demo.suite" timestamp="2023-11-13 13:18:03.896 -0500"
+ tests="1"  failures="2" errors="0" time="14.839000">
+  <properties>
+   <property name="RunDate" value="2023-11-13 13:18:03.896 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="VerifyArtemis.script" assertions="1" status="failure"  time="14.813">
+    <failure type="FAILURE" message="SCPI ERROR: 3?  Öû§|ÔN1æE·ý^°1*4É|0&quot;ûN õó ÿõ4æ£B4ÙhP e ¥ 0x\n  [=)±îýÈ®Ë&apos;¨«  ûÎî¨®9Æ} ¡ î\n$ÁïíhK&lt;Ç®òçj ÍÔªßJ \x7fª ñÿyç ¤ \nk&quot;3*\n k ÌïÍÞÆèã ¾ \n¿í  q Óé Æ âeÓòõÁþÉ -- Execution Time 0:00:14 VerifyArtemis.script" />
+    <failure type="FAILURE" message="SCPI ERROR: 3?  Öû§|ÔN1æE·ý^°1*4É|0&quot;ûN õó ÿõ4æ£B4ÙhP e ¥ 0x\n  [=)±îýÈ®Ë&apos;¨«  ûÎî¨®9Æ} ¡ î\n$ÁïíhK&lt;Ç®òçj ÍÔªßJ \x7fª ñÿyç ¤ \nk&quot;3*\n k ÌïÍÞÆèã ¾ \n¿í  q Óé Æ âeÓòõÁþÉ -- Execution Time 0:00:14 VerifyArtemis.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

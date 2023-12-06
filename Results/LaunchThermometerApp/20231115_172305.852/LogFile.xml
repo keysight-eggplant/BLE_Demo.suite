@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="LaunchThermometerApp_script" package="BLE_Demo.suite" timestamp="2023-11-15 17:23:05.852 -0500"
+ tests="1"  failures="0" errors="0" time="21.713000">
+  <properties>
+   <property name="RunDate" value="2023-11-15 17:23:05.852 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="LaunchThermometerApp.script" assertions="1" status="error"  time="21.664">
+    <error type="Exception" message="No Image Found On Screen: &quot;HAACP_AddButton&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SetArtemisValues_script" package="BLE_Demo.suite" timestamp="2023-11-20 16:06:12.738 -0500"
+ tests="1"  failures="1" errors="0" time="24.158000">
+  <properties>
+   <property name="RunDate" value="2023-11-20 16:06:12.738 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="SetArtemisValues.script" assertions="1" status="failure"  time="24.139">
+    <failure type="FAILURE" message="SCPI ERROR: -100,&quot;Command error; CONF:RAD:BLE:TEMP:VAL &lt;value&gt; failed. Failed to set temperature value&quot; -- Execution Time 0:00:24 SetArtemisValues.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

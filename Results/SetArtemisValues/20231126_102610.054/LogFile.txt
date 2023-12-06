@@ -1,0 +1,5 @@
+﻿2023-11-26 10:26:10.066 -0500	START		Running SetArtemisValues.script
+2023-11-26 10:26:17.729 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:26:17.738 -0500	LogSuccess		The temperatures match.	6	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 10:26:21.891 -0500	EndTestCase		(Duration:"11.816", Errors:"1", Exceptions:"0", StartTime:"2023-11-26 10:26:10 -0500", Successes:"1", TestCase:"SetArtemisValues.script", Warnings:"0")
+2023-11-26 10:26:22.237 -0500	FAILURE	Screen_Error.png	SCPI ERROR: 3?M  Öû§|ÔN æA ý~2!*4Ê|2&óN1õó ÿå4â£B6ÝhP e µ 0h\n  [=\t±îýÈ¦Ë'¬«  ûÎþ ¦9Æ} ¡ -- Execution Time 0:00:11 SetArtemisValues.script

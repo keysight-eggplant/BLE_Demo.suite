@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running UMMS_Issue.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 14:09:38.448 -0500"
+			},
+		{
+				"handlerName": "on_umms_issue",
+				"timestamp": "2023-11-29 14:09:40.097 -0500",
+				"scriptName": "UMMS_Issue.script",
+				"message": "at [429,90,460,98]",
+				"image": "(TEXT:\"Name\")",
+				"handlerLine": 1,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_umms_issue",
+				"timestamp": "2023-11-29 14:09:40.301 -0500",
+				"message": "(449,109,671,432)",
+				"scriptName": "UMMS_Issue.script",
+				"handlerLine": 3,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_umms_issue",
+				"timestamp": "2023-11-29 14:09:40.310 -0500",
+				"message": "Found it",
+				"scriptName": "UMMS_Issue.script",
+				"handlerLine": 5,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"1.895\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-29 14:09:38 -0500\", Successes:\"1\", TestCase:\"UMMS_Issue.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 14:09:40.350 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:01 UMMS_Issue.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-29 14:09:40.518 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 14:09:38.453 -0500"
+}

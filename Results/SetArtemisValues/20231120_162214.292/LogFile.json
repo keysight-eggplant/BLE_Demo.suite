@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-20 16:22:14.301 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:22:20.702 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:22:20.708 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 87.4 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:22:25.023 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:22:25.033 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 96.9 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"message": "(Duration:\"15.002\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-20 16:22:14 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"2\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-20 16:22:29.310 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:15 SetArtemisValues.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-20 16:22:29.330 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-20 16:22:14.306 -0500"
+}

@@ -1,0 +1,78 @@
+﻿global myTemperature
+global myBatteryPercentage
+global myValidationImage
+global myBatteryPercentageAsNumber
+global myBatteryValidationImage
+global myErrorCount
+
+put (4.9,5.0,5.1,99.9,100.0,100.1,32.0,212.2,27.4,999.9) into myTemperatureList
+put (0,10,25,26,50,51,75,76,100,101) into myBatteryPercentageList
+
+set myDeviceAddr to "USB0::0x2A8D::0x6A01::MY61440146::0::INSTR" -- get address from Keysight Connection Expert app
+set Artemis to VisaDevice(myDeviceAddr)  -- instantiate device and apply a simple name
+set Artemis.allowOverlappedCommands to True -- the device under test does not require ;*OPC? and sending it for each line often generates -350 errors
+set Artemis.ignoreErrors to [-100,-350,-400] -- sending too many commands to this DUT will generate -400 errors that can be ignored
+
+(*tell Artemis
+	reset
+	-- setValue "RADio:BLE:RES"
+end tell*)
+
+
+
+
+put Artemis is a VisaDevice —> True -- verify connection
+put Artemis.deviceIdentifier -- second verification potion (optional)
+
+
+repeat with each item myTemperature of myTemperatureList
+	if myTemperature is between 5 and 100 then
+		put "HAACP_RangeIndicator_green" into myValidationImage
+	else
+		put "HAACP_RangeIndicator_red" into myValidationImage
+	end if
+	put item repeatindex() of myBatteryPercentageList into myBatteryPercentageAsNumber
+	
+	If myBatteryPercentageAsNumber ...
+		... is between 0 and 10:
+			put "HAACP_BatteryIcon_red" into myBatteryValidationImage
+		... is between 11 and 25:
+			put "HAACP_BatteryIcon_1bar" into myBatteryValidationImage
+		... is between 26 and 50:
+			put "HAACP_BatteryIcon_2bars" into myBatteryValidationImage
+		... is between 51 and 75:
+			put "HAACP_BatteryIcon_3bars" into myBatteryValidationImage
+		... is between 76 and 100:
+			put "HAACP_BatteryIcon_full" into myBatteryValidationImage
+		... Else
+			LogWarning "The battery percentage is out of range."
+	End if
+	
+	
+	put "'"&myBatteryPercentageAsNumber&"'" into myBatteryPercentage -- device requires battery percentage to be bracketted with single quotes
+	
+	Try
+		tell Artemis
+			setValue "CONFigure:RADio:BLE:TEMPerature:VALue", myTemperature
+			Wait 1
+			setValue "CONFigure:RADio:BLE:BATTery:PERCentage", myBatteryPercentage
+		End Tell
+	Catch theException
+		tell Artemis
+			setValue "CONFigure:RADio:BLE:TEMPerature:VALue", myTemperature
+			Wait 1
+			setValue "CONFigure:RADio:BLE:BATTery:PERCentage", myBatteryPercentage
+			LogWarning "Triggered error capture"
+			set myErrorCount = myErrorCount + 1
+		End Tell
+		-- throw theException — re-throw the exception (if desired)
+	End try
+	
+	
+	
+	ValidateValuesInThermometerApp -- script checks temperature reading on iPhone in HAACP app (Thermoworks)
+	
+end repeat
+
+
+

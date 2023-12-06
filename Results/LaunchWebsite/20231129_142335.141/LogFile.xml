@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="LaunchWebsite_script" package="BLE_Demo.suite" timestamp="2023-11-29 14:23:35.141 -0500"
+ tests="1"  failures="0" errors="0" time="77.353000">
+  <properties>
+   <property name="RunDate" value="2023-11-29 14:23:35.141 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="LaunchWebsite.script" assertions="1" status="success"  time="77.336">
+  </testcase>
+ </testsuite>
+</testsuites>

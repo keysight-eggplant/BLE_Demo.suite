@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UMMS_Issue_script" package="BLE_Demo.suite" timestamp="2023-11-29 14:08:02.651 -0500"
+ tests="1"  failures="0" errors="0" time="1.491000">
+  <properties>
+   <property name="RunDate" value="2023-11-29 14:08:02.651 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="UMMS_Issue.script" assertions="1" status="success"  time="1.472">
+  </testcase>
+ </testsuite>
+</testsuites>

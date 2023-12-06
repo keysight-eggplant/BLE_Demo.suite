@@ -1,0 +1,81 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 14:23:35.153 -0500"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:23:35.691 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (37, 133)",
+				"image": "EdgeLogo",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:23:37.871 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (364, 50)",
+				"image": "EdgeRefresh",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:23:40.216 -0500",
+				"message": "target.com[return]",
+				"scriptName": "Sandbox.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:24:44.663 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "found at (374, 161)",
+				"image": "(TEXT:\"categories\")",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:24:45.025 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (983, 160)",
+				"image": "SearchIcon",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:24:47.487 -0500",
+				"message": "coffee machine[return]",
+				"scriptName": "Sandbox.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:24:52.359 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (490, 564)",
+				"image": "Deals",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"77.336\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-29 14:23:35 -0500\", Successes:\"1\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 14:24:52.499 -0500"
+			},
+		{
+				"message": "Execution Time 0:01:17 LaunchWebsite.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-29 14:24:52.654 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 14:23:35.159 -0500"
+}

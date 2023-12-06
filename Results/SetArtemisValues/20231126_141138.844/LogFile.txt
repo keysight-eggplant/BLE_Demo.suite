@@ -1,0 +1,15 @@
+﻿2023-11-26 14:11:38.879 -0500	START		Running SetArtemisValues.script
+2023-11-26 14:11:43.284 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:43.299 -0500	LogWarning		The temperatures do not match. The thermometer temperature is 4.9 but the application reads 999.9	11	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:43.509 -0500	imagefound	HAACP_RangeIndicator_red	found at (583, 419)	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:43.515 -0500	LogSuccess		The range validation has passed.	15	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:44.989 -0500	imagefound	HAACP_BatteryIcon_red	Unable to Find Image HAACP_BatteryIcon_red	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:45.003 -0500	LogWarning		The battery validation has NOT passed for the value: 0 %.	23	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:49.241 -0500	readtext		(311,506,861,774)	7	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:49.247 -0500	LogWarning		The temperatures do not match. The thermometer temperature is 5 but the application reads 999.9	11	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:50.604 -0500	imagefound	HAACP_RangeIndicator_green	Unable to Find Image HAACP_RangeIndicator_green	14	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:50.621 -0500	LogWarning		The range validation has NOT passed for thermometer temperature 5	17	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:51.925 -0500	imagefound	HAACP_BatteryIcon_red	Unable to Find Image HAACP_BatteryIcon_red	20	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:51.943 -0500	LogWarning		The battery validation has NOT passed for the value: 10 %.	23	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-26 14:11:54.084 -0500	EndTestCase		(Duration:"15.184", Errors:"1", Exceptions:"0", StartTime:"2023-11-26 14:11:38 -0500", Successes:"1", TestCase:"SetArtemisValues.script", Warnings:"5")
+2023-11-26 14:11:54.097 -0500	ABORTED		Execution Time 0:00:15 SetArtemisValues.script

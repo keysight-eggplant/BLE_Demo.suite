@@ -1,0 +1,3 @@
+﻿2023-11-26 10:34:17.087 -0500	START		Running SetArtemisValues.script
+2023-11-26 10:34:19.371 -0500	EndTestCase		(Duration:"2.274", Errors:"1", Exceptions:"0", StartTime:"2023-11-26 10:34:17 -0500", Successes:"0", TestCase:"SetArtemisValues.script", Warnings:"0")
+2023-11-26 10:34:19.761 -0500	FAILURE	Screen_Error.png	VISA Error: VI_ERROR_TMO: A timeout occurred -- Execution Time 0:00:02 SetArtemisValues.script

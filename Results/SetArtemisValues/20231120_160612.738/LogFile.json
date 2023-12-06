@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-20 16:06:12.748 -0500"
+			},
+		{
+				"message": "(Duration:\"24.139\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-20 16:06:12 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-20 16:06:36.899 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: -100,\"Command error; CONF:RAD:BLE:TEMP:VAL <value> failed. Failed to set temperature value\" -- Execution Time 0:00:24 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-20 16:06:37.465 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-20 16:06:12.755 -0500"
+}

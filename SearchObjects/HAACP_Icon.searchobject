@@ -1,0 +1,58 @@
+{
+	"lastmodifieddate": 1700082871.5110002,
+	"lastfoundlocation": [
+		628,
+		832,
+		186,
+		170
+	],
+	"originalcapturelocation": [
+		628,
+		832,
+		186,
+		170
+	],
+	"createddate": 1700082871.5110002,
+	"lastfounddate": 1701290194.4579999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 54136,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[106,82]",
+					"Tolerance": "_1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"sutinfo": {
+					"model": "iPhone",
+					"webdriver_port": "54137",
+					"remote_adb_port": "0",
+					"device_os": "android",
+					"manufacturer": "Apple",
+					"type": "kvsfa",
+					"architecture": "arm64e",
+					"vnc_port": "54136",
+					"sdk": "20H115",
+					"android_version": "16.7.2",
+					"CacheDir": "PublicStaging",
+					"serial": "00008110-000E1C821162401E",
+					"remote_ip_addr": "localhost"
+				},
+				"name": "HAACP_Icon.png",
+				"connectionname": "iPhone",
+				"type": 1,
+				"capturerect": [
+					628,
+					832,
+					186,
+					170
+				],
+				"connectiontype": "Mobile Device",
+				"connectionserverid": "localhost"
+			}
+	],
+	"name": "HAACP_Icon"
+}

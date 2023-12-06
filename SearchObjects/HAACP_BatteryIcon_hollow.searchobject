@@ -1,0 +1,99 @@
+{
+	"originalcapturelocation": [
+		908,
+		325,
+		84,
+		45
+	],
+	"lastmodifieddate": 1700083852.974,
+	"createddate": 1700083359.4920001,
+	"name": "HAACP_BatteryIcon_hollow",
+	"lastfounddate": 1701002916.934,
+	"ocrcapturestring": "[■ZF",
+	"lastfoundlocation": [
+		908,
+		325,
+		84,
+		45
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 54136,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[44,33]",
+					"Tolerance": "_1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"sutinfo": {
+					"model": "iPhone",
+					"webdriver_port": "54137",
+					"remote_adb_port": "0",
+					"device_os": "android",
+					"manufacturer": "Apple",
+					"type": "kvsfa",
+					"architecture": "arm64e",
+					"vnc_port": "54136",
+					"sdk": "20H115",
+					"android_version": "16.7.2",
+					"CacheDir": "PublicStaging",
+					"remote_ip_addr": "localhost",
+					"serial": "00008110-000E1C821162401E"
+				},
+				"name": "HAACP_BatteryIcon_hollow.png",
+				"connectionname": "iPhone",
+				"type": 1,
+				"connectionserverid": "localhost",
+				"capturerect": [
+					908,
+					325,
+					84,
+					45
+				],
+				"connectiontype": "Mobile Device",
+				"capturedocrtext": "[■ZF"
+			},
+		{
+				"connectionportnum": 54136,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[44,33]",
+					"Tolerance": 6,
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"sutinfo": {
+					"model": "iPhone",
+					"webdriver_port": "54137",
+					"remote_adb_port": "0",
+					"device_os": "android",
+					"manufacturer": "Apple",
+					"type": "kvsfa",
+					"architecture": "arm64e",
+					"vnc_port": "54136",
+					"sdk": "20H115",
+					"android_version": "16.7.2",
+					"CacheDir": "PublicStaging",
+					"remote_ip_addr": "localhost",
+					"serial": "00008110-000E1C821162401E"
+				},
+				"name": "HAACP_BatteryIcon_hollow.png",
+				"connectionname": "iPhone",
+				"type": 1,
+				"connectionserverid": "localhost",
+				"capturerect": [
+					908,
+					325,
+					84,
+					45
+				],
+				"connectiontype": "Mobile Device",
+				"capturedocrtext": "[■ZF"
+			}
+	]
+}

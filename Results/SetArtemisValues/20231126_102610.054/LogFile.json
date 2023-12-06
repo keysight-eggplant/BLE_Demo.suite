@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-26 10:26:10.066 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:26:17.729 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-26 10:26:17.738 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"11.816\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-26 10:26:10 -0500\", Successes:\"1\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-26 10:26:21.891 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: 3?M  Öû§|ÔN æA ý~2!*4Ê|2&óN1õó ÿå4â£B6ÝhP e µ 0h\\n  [=\\t±îýÈ¦Ë'¬«  ûÎþ ¦9Æ} ¡ -- Execution Time 0:00:11 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-26 10:26:22.237 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-26 10:26:10.072 -0500"
+}

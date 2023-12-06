@@ -1,0 +1,6 @@
+﻿2023-11-29 14:09:38.448 -0500	START		Running UMMS_Issue.script
+2023-11-29 14:09:40.097 -0500	imagerectangle	(TEXT:"Name")	at [429,90,460,98]	1	on_umms_issue	UMMS_Issue.script
+2023-11-29 14:09:40.301 -0500	readtext		(449,109,671,432)	3	on_umms_issue	UMMS_Issue.script
+2023-11-29 14:09:40.310 -0500	LogSuccess		Found it	5	on_umms_issue	UMMS_Issue.script
+2023-11-29 14:09:40.350 -0500	EndTestCase		(Duration:"1.895", Errors:"0", Exceptions:"0", StartTime:"2023-11-29 14:09:38 -0500", Successes:"1", TestCase:"UMMS_Issue.script", Warnings:"0")
+2023-11-29 14:09:40.518 -0500	SUCCESS		Execution Time 0:00:01 UMMS_Issue.script

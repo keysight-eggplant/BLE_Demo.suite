@@ -1,0 +1,58 @@
+{
+	"lastmodifieddate": 1701002960.7290001,
+	"lastfoundlocation": [
+		448,
+		366,
+		271,
+		115
+	],
+	"originalcapturelocation": [
+		454,
+		399,
+		271,
+		115
+	],
+	"createddate": 1701002960.7290001,
+	"lastfounddate": 1701296659.806,
+	"testlocationdata": [
+		{
+				"connectionportnum": 59513,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[135,57]",
+					"Tolerance": "_1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"sutinfo": {
+					"model": "iPhone",
+					"webdriver_port": "59514",
+					"remote_adb_port": "0",
+					"device_os": "android",
+					"manufacturer": "Apple",
+					"type": "kvsfa",
+					"architecture": "arm64e",
+					"vnc_port": "59513",
+					"sdk": "20H115",
+					"android_version": "16.7.2",
+					"CacheDir": "PublicStaging",
+					"remote_ip_addr": "localhost",
+					"serial": "00008110-000E1C821162401E"
+				},
+				"name": "HAACP_RangeIndicator_green.png",
+				"connectionname": "iPhone",
+				"type": 1,
+				"capturerect": [
+					454,
+					399,
+					271,
+					115
+				],
+				"connectiontype": "Mobile Device",
+				"connectionserverid": "localhost"
+			}
+	],
+	"name": "HAACP_RangeIndicator_green"
+}

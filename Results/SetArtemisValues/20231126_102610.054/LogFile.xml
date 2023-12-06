@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SetArtemisValues_script" package="BLE_Demo.suite" timestamp="2023-11-26 10:26:10.054 -0500"
+ tests="1"  failures="1" errors="0" time="11.835000">
+  <properties>
+   <property name="RunDate" value="2023-11-26 10:26:10.054 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="SetArtemisValues.script" assertions="2" status="failure"  time="11.816">
+    <failure type="FAILURE" message="SCPI ERROR: 3?M  Öû§|ÔN æA ý~2!*4Ê|2&amp;óN1õó ÿå4â£B6ÝhP e µ 0h\n  [=\t±îýÈ¦Ë&apos;¬«  ûÎþ ¦9Æ} ¡ -- Execution Time 0:00:11 SetArtemisValues.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

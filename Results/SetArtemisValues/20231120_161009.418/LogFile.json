@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-20 16:10:09.433 -0500"
+			},
+		{
+				"message": "(Duration:\"4.349\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-20 16:10:09 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-20 16:10:13.790 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: -100,\"Command error; CONF:RAD:BLE:TEMP:UNIT <unit> failed. Failed to set battery percentage\" -- Execution Time 0:00:04 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-20 16:10:14.287 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-20 16:10:09.439 -0500"
+}

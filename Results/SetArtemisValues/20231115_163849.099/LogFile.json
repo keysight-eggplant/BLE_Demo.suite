@@ -1,0 +1,121 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-15 16:38:49.123 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:38:53.510 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (952, 358)",
+				"image": "HAACP_BatteryIcon_hollow",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:38:53.596 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:38:53.604 -0500",
+				"message": "The temperatures do not match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:38:57.886 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (952, 358)",
+				"image": "HAACP_BatteryIcon_hollow",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:38:57.978 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:38:57.990 -0500",
+				"message": "The temperatures do not match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:39:02.411 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (952, 358)",
+				"image": "HAACP_BatteryIcon_hollow",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:39:02.546 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:39:02.554 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:39:06.849 -0500",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"message": "found at (952, 358)",
+				"image": "HAACP_BatteryIcon_hollow",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:39:06.968 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-15 16:39:06.979 -0500",
+				"message": "The temperatures match.",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 6,
+				"identifier": "LogSuccess"
+			},
+		{
+				"message": "(Duration:\"22.056\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-15 16:38:49 -0500\", Successes:\"2\", TestCase:\"SetArtemisValues.script\", Warnings:\"2\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-15 16:39:11.193 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: -350,\"Queue overflow\" -- Execution Time 0:00:22 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-15 16:39:11.797 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-15 16:38:49.134 -0500"
+}

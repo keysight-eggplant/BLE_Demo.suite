@@ -1,0 +1,68 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-20 16:24:17.155 -0500"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:24:21.491 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:24:21.496 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 87.4 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:24:25.800 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:24:25.806 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 96.9 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:24:30.139 -0500",
+				"message": "(311,506,861,774)",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 4,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_validatevaluesinthermometerapp",
+				"timestamp": "2023-11-20 16:24:30.144 -0500",
+				"message": "The temperatures do not match. The thermometer temperature is 175 but the application reads 99.9",
+				"scriptName": "ValidateValuesInThermometerApp.script",
+				"handlerLine": 8,
+				"identifier": "LogWarning"
+			},
+		{
+				"message": "(Duration:\"17.23\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-20 16:24:17 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"3\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-20 16:24:34.395 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:17 SetArtemisValues.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-20 16:24:34.418 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-20 16:24:17.163 -0500"
+}

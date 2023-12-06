@@ -1,0 +1,3 @@
+﻿2023-11-29 15:47:02.753 -0500	START		Running LaunchThermometerApp.script
+2023-11-29 15:47:08.989 -0500	EndTestCase		(Duration:"6.195", Errors:"1", Exceptions:"0", StartTime:"2023-11-29 15:47:02 -0500", Successes:"0", TestCase:"LaunchThermometerApp.script", Warnings:"0")
+2023-11-29 15:47:09.044 -0500	ABORTED		Execution Time 0:00:06 LaunchThermometerApp.script

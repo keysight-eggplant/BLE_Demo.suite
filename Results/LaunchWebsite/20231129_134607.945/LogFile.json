@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 13:46:07.953 -0500"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 13:46:24.663 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (37, 133)",
+				"image": "EdgeLogo",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 13:46:38.267 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (364, 50)",
+				"image": "EdgeRefresh",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"37.746\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-29 13:46:07 -0500\", Successes:\"0\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 13:46:45.710 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:37 LaunchWebsite.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-29 13:46:45.736 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 13:46:07.960 -0500"
+}

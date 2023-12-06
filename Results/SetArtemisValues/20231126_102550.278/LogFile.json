@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-26 10:25:50.290 -0500"
+			},
+		{
+				"message": "(Duration:\"5.368\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-26 10:25:50 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-26 10:25:55.664 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "VISA Error: VI_ERROR_IO: I/O error -- Execution Time 0:00:05 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-26 10:25:56.016 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-26 10:25:50.295 -0500"
+}

@@ -1,0 +1,4 @@
+﻿2023-11-13 12:59:31.232 -0500	START		Running VerifyArtemis.script
+2023-11-13 12:59:31.250 -0500	EndTestCase		(Duration:"0.003", Errors:"1", Exceptions:"0", StartTime:"2023-11-13 12:59:31 -0500", Successes:"0", TestCase:"VerifyArtemis.script", Warnings:"0")
+2023-11-13 12:59:32.069 -0500	FAILURE	Screen_Error.png	SenseTalk Compiler Exception: in verifyartemis:\nSyntax Error at line 9: can't understand [end of line] at character 45 -- Execution Time 0:00:00 VerifyArtemis.script
+2023-11-13 12:59:39.204 -0500	FAILURE	Screen_Error_Web.png	SenseTalk Compiler Exception: in verifyartemis:\nSyntax Error at line 9: can't understand [end of line] at character 45 -- Execution Time 0:00:00 VerifyArtemis.script

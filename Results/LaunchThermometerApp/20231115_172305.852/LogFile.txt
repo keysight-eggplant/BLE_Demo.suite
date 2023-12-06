@@ -1,0 +1,6 @@
+﻿2023-11-15 17:23:05.882 -0500	START		Running LaunchThermometerApp.script
+2023-11-15 17:23:06.461 -0500	doubletap	HAACP_Icon	at (734, 914)	1	on_launchthermometerapp	LaunchThermometerApp.script
+2023-11-15 17:23:11.438 -0500	waitfor	(TEXT:"Temperature Management")	found at (585, 210)	2	on_launchthermometerapp	LaunchThermometerApp.script
+2023-11-15 17:23:27.046 -0500	Exception	HAACP_AddButton	No Image Found On Screen: "HAACP_AddButton"	3	on_launchthermometerapp	LaunchThermometerApp.script
+2023-11-15 17:23:27.568 -0500	EndTestCase		(Duration:"21.664", Errors:"1", Exceptions:"1", StartTime:"2023-11-15 17:23:05 -0500", Successes:"0", TestCase:"LaunchThermometerApp.script", Warnings:"0")
+2023-11-15 17:23:27.594 -0500	ABORTED		Execution Time 0:00:21 LaunchThermometerApp.script

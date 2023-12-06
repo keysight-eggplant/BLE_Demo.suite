@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="VerifyArtemis_script" package="BLE_Demo.suite" timestamp="2023-11-13 12:58:50.876 -0500"
+ tests="1"  failures="2" errors="0" time="0.434000">
+  <properties>
+   <property name="RunDate" value="2023-11-13 12:58:50.876 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="VerifyArtemis.script" assertions="1" status="failure"  time="0.419">
+    <failure type="FAILURE" message="InvalidCommandOrRange: Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got &quot;VISADevice(&quot;USB0:...&quot; TO &quot;CONFigure:RADio:B...&quot;) -- Execution Time 0:00:00 VerifyArtemis.script" />
+    <failure type="FAILURE" message="InvalidCommandOrRange: Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got &quot;VISADevice(&quot;USB0:...&quot; TO &quot;CONFigure:RADio:B...&quot;) -- Execution Time 0:00:00 VerifyArtemis.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

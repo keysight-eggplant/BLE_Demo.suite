@@ -1,0 +1,5 @@
+﻿2023-11-15 16:41:58.109 -0500	START		Running SetArtemisValues.script
+2023-11-15 16:42:02.520 -0500	waitfor	HAACP_BatteryIcon_hollow	found at (952, 358)	3	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:42:02.834 -0500	readtext		(311,506,861,774)	4	on_validatevaluesinthermometerapp	ValidateValuesInThermometerApp.script
+2023-11-15 16:42:54.476 -0500	EndTestCase		(Duration:"56.346", Errors:"1", Exceptions:"0", StartTime:"2023-11-15 16:41:58 -0500", Successes:"0", TestCase:"SetArtemisValues.script", Warnings:"0")
+2023-11-15 16:42:54.501 -0500	ABORTED		Execution Time 0:00:56 SetArtemisValues.script

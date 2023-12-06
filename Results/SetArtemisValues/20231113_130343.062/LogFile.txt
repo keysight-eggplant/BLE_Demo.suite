@@ -1,0 +1,4 @@
+﻿2023-11-13 13:03:43.070 -0500	START		Running VerifyArtemis.script
+2023-11-13 13:03:43.081 -0500	EndTestCase		(Duration:"0.002", Errors:"1", Exceptions:"0", StartTime:"2023-11-13 13:03:43 -0500", Successes:"0", TestCase:"VerifyArtemis.script", Warnings:"0")
+2023-11-13 13:03:43.833 -0500	FAILURE	Screen_Error.png	SenseTalk Compiler Exception: in verifyartemis:\nSyntax Error at line 13: can't understand [end of line] at character 45 -- Execution Time 0:00:00 VerifyArtemis.script
+2023-11-13 13:03:56.093 -0500	FAILURE		SenseTalk Compiler Exception: in verifyartemis:\nSyntax Error at line 13: can't understand [end of line] at character 45 -- Screenshot unavailable -- Execution Time 0:00:00 VerifyArtemis.script

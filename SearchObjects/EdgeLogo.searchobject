@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1701282590.279,
+	"lastfoundlocation": [
+		10,
+		105,
+		54,
+		56
+	],
+	"originalcapturelocation": [
+		10,
+		105,
+		54,
+		56
+	],
+	"createddate": 1701282590.279,
+	"lastfounddate": 1701287093.7420001,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[27,28]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "EdgeLogo.png",
+				"connectionname": "Win 10 - Song",
+				"type": 1,
+				"capturerect": [
+					10,
+					105,
+					54,
+					56
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.230.128"
+			}
+	],
+	"name": "EdgeLogo"
+}

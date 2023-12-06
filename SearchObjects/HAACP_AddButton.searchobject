@@ -1,0 +1,58 @@
+{
+	"lastmodifieddate": 1700083031.9159999,
+	"lastfoundlocation": [
+		491,
+		329,
+		183,
+		182
+	],
+	"originalcapturelocation": [
+		941,
+		578,
+		183,
+		182
+	],
+	"createddate": 1700083031.9159999,
+	"lastfounddate": 1701290358.4780002,
+	"testlocationdata": [
+		{
+				"connectionportnum": 54136,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[92,87]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"model": "iPhone",
+					"webdriver_port": "54137",
+					"remote_adb_port": "0",
+					"device_os": "android",
+					"manufacturer": "Apple",
+					"type": "kvsfa",
+					"architecture": "arm64e",
+					"vnc_port": "54136",
+					"sdk": "20H115",
+					"android_version": "16.7.2",
+					"CacheDir": "PublicStaging",
+					"remote_ip_addr": "localhost",
+					"serial": "00008110-000E1C821162401E"
+				},
+				"name": "HAACP_AddButton.png",
+				"connectionname": "iPhone",
+				"type": 1,
+				"capturerect": [
+					941,
+					578,
+					183,
+					182
+				],
+				"connectiontype": "Mobile Device",
+				"connectionserverid": "localhost"
+			}
+	],
+	"name": "HAACP_AddButton"
+}

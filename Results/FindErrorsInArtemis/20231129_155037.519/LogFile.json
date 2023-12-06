@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running FindErrorsInArtemis.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 15:50:37.583 -0500"
+			},
+		{
+				"message": "(Duration:\"4.265\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-29 15:50:37 -0500\", Successes:\"0\", TestCase:\"FindErrorsInArtemis.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 15:50:41.898 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "VISA Error: Failed to open connection to device \"USB0::0x2A8D::0x6A01::MY61440146::0::INSTR\" (VI_ERROR_NCIC: Not the controller-in-charge) -- Execution Time 0:00:04 FindErrorsInArtemis.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-29 15:50:43.529 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 15:50:37.620 -0500"
+}

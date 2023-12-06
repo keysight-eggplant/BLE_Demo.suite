@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SetArtemisValues_script" package="BLE_Demo.suite" timestamp="2023-11-26 10:31:19.733 -0500"
+ tests="1"  failures="1" errors="0" time="23.022000">
+  <properties>
+   <property name="RunDate" value="2023-11-26 10:31:19.733 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="SetArtemisValues.script" assertions="3" status="failure"  time="22.996">
+    <failure type="FAILURE" message="VISA Error: VI_ERROR_IO: I/O error -- Execution Time 0:00:23 SetArtemisValues.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

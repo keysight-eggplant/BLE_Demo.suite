@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SetArtemisValues_script" package="BLE_Demo.suite" timestamp="2023-11-26 11:04:12.856 -0500"
+ tests="1"  failures="0" errors="0" time="47.531000">
+  <properties>
+   <property name="RunDate" value="2023-11-26 11:04:12.856 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="SetArtemisValues.script" assertions="18" status="success"  time="47.509">
+  </testcase>
+ </testsuite>
+</testsuites>

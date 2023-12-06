@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="FindErrorsInArtemis">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2023-11-29 15:50:37 -0500</FirstRun>
+  <LastRun>2023-11-29 15:57:22 -0500</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="SetArtemisValues">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>85</NumberOfRuns>
+  <NumberOfFails>49</NumberOfFails>
+  <FirstRun>2023-11-13 12:51:58 -0500</FirstRun>
+  <LastRun>2023-11-29 17:23:09 -0500</LastRun>
+  <TotalTimeOnSuccess>2002.854000</TotalTimeOnSuccess>
+ </script>
+ <script name="LaunchWebsite">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-11-29 14:23:35 -0500</FirstRun>
+  <LastRun>2023-11-29 14:44:53 -0500</LastRun>
+  <TotalTimeOnSuccess>98.217000</TotalTimeOnSuccess>
+ </script>
+ <script name="UMMS_Issue">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2023-11-29 14:01:49 -0500</FirstRun>
+  <LastRun>2023-11-29 14:09:57 -0500</LastRun>
+  <TotalTimeOnSuccess>7.524000</TotalTimeOnSuccess>
+ </script>
+</statistics>

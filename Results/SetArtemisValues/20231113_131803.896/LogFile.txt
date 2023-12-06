@@ -1,0 +1,4 @@
+﻿2023-11-13 13:18:03.913 -0500	START		Running VerifyArtemis.script
+2023-11-13 13:18:18.738 -0500	EndTestCase		(Duration:"14.813", Errors:"1", Exceptions:"0", StartTime:"2023-11-13 13:18:03 -0500", Successes:"0", TestCase:"VerifyArtemis.script", Warnings:"0")
+2023-11-13 13:18:19.424 -0500	FAILURE	Screen_Error.png	SCPI ERROR: 3?  Öû§|ÔN1æE·ý^°1*4É|0"ûN õó ÿõ4æ£B4ÙhP e ¥ 0x\n  [=)±îýÈ®Ë'¨«  ûÎî¨®9Æ} ¡ î\n$ÁïíhK<Ç®òçj ÍÔªßJ \x7fª ñÿyç ¤ \nk"3*\n k ÌïÍÞÆèã ¾ \n¿í  q Óé Æ âeÓòõÁþÉ -- Execution Time 0:00:14 VerifyArtemis.script
+2023-11-13 13:18:28.648 -0500	FAILURE	Screen_Error_Web.png	SCPI ERROR: 3?  Öû§|ÔN1æE·ý^°1*4É|0"ûN õó ÿõ4æ£B4ÙhP e ¥ 0x\n  [=)±îýÈ®Ë'¨«  ûÎî¨®9Æ} ¡ î\n$ÁïíhK<Ç®òçj ÍÔªßJ \x7fª ñÿyç ¤ \nk"3*\n k ÌïÍÞÆèã ¾ \n¿í  q Óé Æ âeÓòõÁþÉ -- Execution Time 0:00:14 VerifyArtemis.script

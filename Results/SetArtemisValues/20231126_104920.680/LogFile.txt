@@ -1,0 +1,4 @@
+﻿2023-11-26 10:49:20.692 -0500	START		Running SetArtemisValues.script
+2023-11-26 10:49:26.981 -0500	Throw		SCPI ERROR - 3?M  Öû§|ÔN æA ý~2!*4Ê|2&óN1õó ÿå4â£B6ÝhP e µ 0h\n  [=\t±îýÈ¦Ë'¬«  ûÎþ ¦9Æ} ¡	43	on_setartemisvalues	SetArtemisValues.script
+2023-11-26 10:49:27.052 -0500	EndTestCase		(Duration:"6.35", Errors:"1", Exceptions:"1", StartTime:"2023-11-26 10:49:20 -0500", Successes:"0", TestCase:"SetArtemisValues.script", Warnings:"0")
+2023-11-26 10:49:27.432 -0500	FAILURE	Screen_Error.png	SCPI ERROR: 3?M  Öû§|ÔN æA ý~2!*4Ê|2&óN1õó ÿå4â£B6ÝhP e µ 0h\n  [=\t±îýÈ¦Ë'¬«  ûÎþ ¦9Æ} ¡ -- Execution Time 0:00:06 SetArtemisValues.script

@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running LaunchWebsite.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 14:42:49.657 -0500"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:42:50.168 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (37, 133)",
+				"image": "EdgeLogo",
+				"handlerLine": 3,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:42:52.355 -0500",
+				"scriptName": "Sandbox.script",
+				"message": "at (364, 50)",
+				"image": "EdgeRefresh",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_sandbox",
+				"timestamp": "2023-11-29 14:42:54.735 -0500",
+				"message": "target.com[return]",
+				"scriptName": "Sandbox.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"103.853\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-29 14:42:49 -0500\", Successes:\"0\", TestCase:\"LaunchWebsite.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 14:44:33.520 -0500"
+			},
+		{
+				"message": "Execution Time 0:01:43 LaunchWebsite.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-29 14:44:33.539 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 14:42:49.664 -0500"
+}

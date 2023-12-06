@@ -1,0 +1,14 @@
+﻿params myWebaddress, myText
+
+DoubleClick "EdgeLogo"
+Click (Image:"EdgeRefresh", WaitFor:10)
+TypeText myWebaddress,Return
+WaitFor 60, "TargetLogo"
+
+WaitFor 10, text:myText
+--Click text:"Continue", waitFor:1
+
+Click (Image:"SearchIcon", WaitFor:10)
+TypeText "coffee machine",return
+Click (Image:"Deals", WaitFor:12.9)
+

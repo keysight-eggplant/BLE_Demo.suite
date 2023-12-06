@@ -1,0 +1,21 @@
+﻿DoubleTap (Image:"HAACP_Icon", WaitFor:5)
+WaitFor 15, text:"Temperature Management"
+
+If ImageFound(imageName:"HAACP_BatteryIcon_hollow", waitFor:1) then
+	Log "The device has already been added and the home screen is displayed."
+Else
+	Tap text:"Menu", waitFor:1
+	Tap text:"Devices", waitFor:5
+	If ImageFound (Image:"HAACP_AddButton", WaitFor:1) then Tap FoundImageLocation()
+	WaitFor 5.0, "HAACP_GreenCheck"
+	Tap text:"Back", waitFor:1
+	Wait 1
+	Tap text:"Device", waitFor:5
+	Wait 1
+	Tap text:"Temperature Management", waitFor:5
+	Tap text:"Done", waitFor:1
+	
+End If
+
+
+

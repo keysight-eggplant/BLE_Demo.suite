@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running SetArtemisValues.script",
+				"identifier": "START",
+				"timestamp": "2023-11-15 17:43:18.843 -0500"
+			},
+		{
+				"message": "(Duration:\"2.362\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-11-15 17:43:18 -0500\", Successes:\"0\", TestCase:\"SetArtemisValues.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-15 17:43:21.218 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SCPI ERROR: -113,\"Undefined header; CONFIGURE:RADIO:BLE:TEMPERATURE:*OPC?\" -- Execution Time 0:00:02 SetArtemisValues.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-15 17:43:21.819 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-15 17:43:18.852 -0500"
+}

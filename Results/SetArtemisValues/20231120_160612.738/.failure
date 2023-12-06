@@ -1,0 +1,1 @@
+2023-11-20 16:06:12.738 -0500,Failure,0:00:24,1,0,0,20231120_160612.738/LogFile.txt,"","SCPI ERROR -- -100,""Command error; CONF:RAD:BLE:TEMP:VAL <value> failed. Failed to set temperature value""",0

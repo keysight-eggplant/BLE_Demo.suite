@@ -1,0 +1,4 @@
+﻿2023-11-13 12:58:50.887 -0500	START		Running VerifyArtemis.script
+2023-11-13 12:58:51.319 -0500	EndTestCase		(Duration:"0.419", Errors:"1", Exceptions:"0", StartTime:"2023-11-13 12:58:50 -0500", Successes:"0", TestCase:"VerifyArtemis.script", Warnings:"0")
+2023-11-13 12:58:52.086 -0500	FAILURE	Screen_Error.png	InvalidCommandOrRange: Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got "VISADevice("USB0:..." TO "CONFigure:RADio:B...") -- Execution Time 0:00:00 VerifyArtemis.script
+2023-11-13 12:59:06.006 -0500	FAILURE	Screen_Error_Web.png	InvalidCommandOrRange: Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got "VISADevice("USB0:..." TO "CONFigure:RADio:B...") -- Execution Time 0:00:00 VerifyArtemis.script

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="SetArtemisValues_script" package="BLE_Demo.suite" timestamp="2023-11-15 16:28:45.219 -0500"
+ tests="1"  failures="1" errors="0" time="10.330000">
+  <properties>
+   <property name="RunDate" value="2023-11-15 16:28:45.219 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="SetArtemisValues.script" assertions="1" status="failure"  time="10.298">
+    <failure type="FAILURE" message="SCPI ERROR: -350,&quot;Queue overflow&quot; -- Execution Time 0:00:10 SetArtemisValues.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

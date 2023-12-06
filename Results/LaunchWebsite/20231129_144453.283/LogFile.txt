@@ -1,0 +1,11 @@
+﻿2023-11-29 14:44:53.294 -0500	START		Running LaunchWebsite.script
+2023-11-29 14:44:53.908 -0500	doubleclick	EdgeLogo	at (37, 133)	3	on_sandbox	Sandbox.script
+2023-11-29 14:44:56.034 -0500	click	EdgeRefresh	at (364, 50)	4	on_sandbox	Sandbox.script
+2023-11-29 14:44:58.394 -0500	typetext		target.com[return]	5	on_sandbox	Sandbox.script
+2023-11-29 14:45:01.437 -0500	waitfor	TargetLogo	found at (278, 158)	6	on_sandbox	Sandbox.script
+2023-11-29 14:45:04.137 -0500	waitfor	(TEXT:"categories")	found at (373, 159)	8	on_sandbox	Sandbox.script
+2023-11-29 14:45:04.513 -0500	click	SearchIcon	at (983, 160)	11	on_sandbox	Sandbox.script
+2023-11-29 14:45:06.990 -0500	typetext		coffee machine[return]	12	on_sandbox	Sandbox.script
+2023-11-29 14:45:14.026 -0500	click	Deals	at (490, 564)	13	on_sandbox	Sandbox.script
+2023-11-29 14:45:14.149 -0500	EndTestCase		(Duration:"20.846", Errors:"0", Exceptions:"0", StartTime:"2023-11-29 14:44:53 -0500", Successes:"1", TestCase:"LaunchWebsite.script", Warnings:"0")
+2023-11-29 14:45:14.336 -0500	SUCCESS		Execution Time 0:00:20 LaunchWebsite.script

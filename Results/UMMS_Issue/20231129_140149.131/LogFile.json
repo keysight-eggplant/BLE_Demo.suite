@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running UMMS_Issue.script",
+				"identifier": "START",
+				"timestamp": "2023-11-29 14:01:49.147 -0500"
+			},
+		{
+				"handlerName": "on_umms_issue",
+				"timestamp": "2023-11-29 14:01:50.858 -0500",
+				"scriptName": "UMMS_Issue.script",
+				"message": "at [429,90,460,98]",
+				"image": "(TEXT:\"Name\")",
+				"handlerLine": 1,
+				"identifier": "imagerectangle"
+			},
+		{
+				"message": "(Duration:\"1.739\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-29 14:01:49 -0500\", Successes:\"1\", TestCase:\"UMMS_Issue.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-29 14:01:50.905 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:01 UMMS_Issue.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-29 14:01:51.031 -0500"
+			}
+	],
+	"createdTimestamp": "2023-11-29 14:01:49.161 -0500"
+}
